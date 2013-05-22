@@ -2,13 +2,12 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="742dece4-4ff3-41c5-bbac-8cd91d74fde4" name="Default" comment="">
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/source/_posts/2013-05-22-zombie-ninjas-attack-a-survivors-retrospective.markdown" afterPath="$PROJECT_DIR$/source/_posts/2013-05-22-zombie-ninjas-attack-a-survivors-retrospective.markdown" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/_config.yml" afterPath="$PROJECT_DIR$/_config.yml" />
     </list>
     <ignored path="blog.iws" />
     <ignored path=".idea/workspace.xml" />
     <file path="/Dummy.txt" changelist="742dece4-4ff3-41c5-bbac-8cd91d74fde4" time="1369259379833" ignored="false" />
-    <file path="/_config.yml" changelist="742dece4-4ff3-41c5-bbac-8cd91d74fde4" time="1369263075857" ignored="false" />
+    <file path="/_config.yml" changelist="742dece4-4ff3-41c5-bbac-8cd91d74fde4" time="1369263794095" ignored="false" />
     <option name="TRACKING_ENABLED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -31,16 +30,7 @@
       <file leaf-file-name="_config.yml" pinned="false" current="true" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/_config.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state line="84" column="8" selection-start="2696" selection-end="2696" vertical-scroll-proportion="0.9076923">
-              <folding />
-            </state>
-          </provider>
-        </entry>
-      </file>
-      <file leaf-file-name="2013-05-22-zombie-ninjas-attack-a-survivors-retrospective.markdown" pinned="false" current="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/source/_posts/2013-05-22-zombie-ninjas-attack-a-survivors-retrospective.markdown">
-          <provider selected="true" editor-type-id="text-editor">
-            <state line="10" column="528" selection-start="1475" selection-end="1475" vertical-scroll-proportion="0.0">
+            <state line="96" column="19" selection-start="2867" selection-end="2874" vertical-scroll-proportion="0.5630769">
               <folding />
             </state>
           </provider>
@@ -366,14 +356,14 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/source/_posts/2013-05-22-zombie-ninjas-attack-a-survivors-retrospective.markdown">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="10" column="528" selection-start="1475" selection-end="1475" vertical-scroll-proportion="0.0">
+        <state line="10" column="528" selection-start="1475" selection-end="1475" vertical-scroll-proportion="0.39893618">
           <folding />
         </state>
       </provider>
     </entry>
     <entry file="file://$PROJECT_DIR$/_config.yml">
       <provider selected="true" editor-type-id="text-editor">
-        <state line="84" column="8" selection-start="2696" selection-end="2696" vertical-scroll-proportion="0.9076923">
+        <state line="96" column="19" selection-start="2867" selection-end="2874" vertical-scroll-proportion="0.5630769">
           <folding />
         </state>
       </provider>
