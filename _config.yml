@@ -11,9 +11,9 @@ description: Software Developer with a growing affinity for Ruby on Rails
 
 navigation:
 - text: Blog
-  url: /index.html
+  url: /
 - text: About
-  url: /about.html
+  url: /about/
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
