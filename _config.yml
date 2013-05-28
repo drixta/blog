@@ -16,7 +16,7 @@ navigation:
 - text: About
   url: /about/
 - text: Subscribe
-  url: /blog/atom.xml
+  url: /atom.xml
 
 # Default date format is "ordinal" (resulting in "July 22nd 2007")
 # You can customize the format as defined in
