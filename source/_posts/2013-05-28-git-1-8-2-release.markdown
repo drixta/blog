@@ -6,4 +6,4 @@ comments: true
 categories: 
 ---
 
-Here is a good read on the new features in the latest git release: http://blogs.atlassian.com/2013/03/highlights-new-git-1-8-2/
+Here is a good read on the new features in the latest git release: <a href="http://blogs.atlassian.com/2013/03/highlights-new-git-1-8-2/" target="_blank">blogs.atlassian.com/2013/03/highlights-new-git-1-8-2//</a>
