@@ -6,9 +6,9 @@ comments: true
 categories: open-source 
 ---
 
-WikiHouse is Architecture patterned after the principles of open source software: http://www.wikihouse.cc/
+WikiHouse is Architecture patterned after the principles of open source software: <a href="http://www.wikihouse.cc/" target="_blank">wikihouse.cc/</a>
 
-For the TED talk: http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people.html
+For the <a href="http://www.ted.com/talks/alastair_parvin_architecture_for_the_people_by_the_people.html" target="_blank">TED talk</a>.
 
 
 
