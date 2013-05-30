@@ -9,6 +9,8 @@ author: Drew Sheneman
 firstname: Drew
 simple_search: http://google.com/search
 description: Software Developer with a growing affinity for Ruby on Rails
+keywords: ruby,ruby on rails,octopress,gem,development,git
+
 
 navigation:
 - text: Blog
